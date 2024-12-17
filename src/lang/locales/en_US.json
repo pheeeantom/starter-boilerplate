@@ -1,0 +1,39 @@
+{
+	"app": "app",
+	
+	"sidenav.main": "Main",
+
+	"sidenav.main.dashboard": "Dashboard",
+
+	"sidenav.main.catalog": "Catalog",
+	"sidenav.main.catalog.goods": "Goods",
+	"sidenav.main.catalog.categories": "Categories",
+	"sidenav.main.catalog.collections": "Collections",
+	"sidenav.main.catalog.combo": "Combo",
+
+	"sidenav.main.orders": "Orders",
+
+	"sidenav.main.clients": "Clients",
+	"sidenav.main.clients.clientsList": "Clients List",
+	"sidenav.main.clients.clientsGroups": "Clients Groups",
+
+	"sidenav.main.banners": "Banners",
+
+	"sidenav.main.coupons": "Coupons",
+
+	"sidenav.main.offlineShops": "Offline Shops",
+	"sidenav.main.offlineShops.addresses": "Addresses",
+	"sidenav.main.offlineShops.geozones": "GeoZones",
+
+	"sidenav.main.employees": "Employees",
+
+	"sidenav.main.mailings": "Mailings",
+
+	"sidenav.system": "System",
+
+	"sidenav.system.settings": "Settings",
+
+	"sidenav.system.mobileApps": "Mobile Apps",
+
+	"sidenav.system.logs": "Logs"
+}
